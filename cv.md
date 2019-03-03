@@ -72,7 +72,7 @@ return mentorData;
 
 * **Game:** 
 
- Project: <https://petriken.github.io/padawan-s_wisdom>  
+  Project: <https://petriken.github.io/padawan-s_wisdom>  
 Environment: HTML (+canvas), CSS/SASS, JavaScript, jQuery
 
 * **Culture portal**
@@ -82,14 +82,14 @@ Environment: HTML, JavaScript, React, Redux
 
 * **Mentor-dashboard**
 
- Project: <https://petriken.github.io/rss-mentor-dashboard>  
+  Project: <https://petriken.github.io/rss-mentor-dashboard>  
 Environment: HTML, CSS, JavaScript, React
 
 **Community Lab**
 
 * **Mentor-dashboard**
 
- Project: <https://petriken.github.io/rss-mentor-dashboard>  
+  Project: <https://petriken.github.io/rss-mentor-dashboard>  
 Position: developer  
 Environment: HTML, CSS, JavaScript, React
 
