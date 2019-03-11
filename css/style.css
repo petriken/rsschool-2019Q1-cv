@@ -1,7 +1,9 @@
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, 
-p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
+/* p,  */
+blockquote, pre,
+a, abbr, acronym, address, big, cite, 
+/* code, */
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
@@ -24,6 +26,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
@@ -45,11 +48,12 @@ table {
 
 body {
   position: relative;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   font-family: 'Montserrat', 'Arial', sans-serif;
 }
 
 .wrapper {
+  position: relative;
   width: 1024px;
   left: 50%;
   transform: translateX(-50%);
