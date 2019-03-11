@@ -59,4 +59,34 @@ body {
   transform: translateX(-50%);
 }
 
+.icon {
+	/* width: 25px;
+	height: 25px; */
+}
 
+.icon-codewars {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 0;
+	background-image: url('../img/codewars_icon_16.png');
+}
+
+.text-headline {
+	font-size: 1.5rem;
+}
+
+.text-title {
+	padding: 10px 0 0 0;
+	font-size: 1.3rem;
+}
+
+.text-subtitle {
+	padding: 10px 0 0 0;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
+.text-prefix {
+	font-weight: bold;
+}
